@@ -5,6 +5,8 @@ public class Class_today {
 	public static void main(String[] args) {
 	
 		int p=20;
+		System.out.println();
+		
 
 	}
 
